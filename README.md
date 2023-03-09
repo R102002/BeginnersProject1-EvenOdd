@@ -4,6 +4,7 @@ Hi everyone, I've deployed a basic and simple project using Django in Python any
 Even Odd Finder
 
 https://eoappriddhi.pythonanywhere.com/
+codelink:https://github.com/R102002/BeginnersProject1-EvenOdd
 
 VC Counter App
 
